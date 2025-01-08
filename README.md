@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Saumya Bhutani
 
-<!--
-**bhutanisaumya/bhutanisaumya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**: Master of Data Science and Innovation, University of Technology Sydney (UTS).
 
-Here are some ideas to get you started:
+💻 **Technical Expertise**: 
+- Proficient in **SQL**, **Python**, and **Power BI**.
+- Skilled in advanced tools and platforms such as **Apache Airflow**, **PostgreSQL**, **Snowflake**, and **cloud services** (AWS, Azure, GCP).
+- Experience in **machine learning**, **data visualization**, and **ETL pipeline development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Passion & Goals**: 
+- Leveraging data to drive strategic decision-making and enable digital transformation.
+- Exploring cutting-edge technologies and collaborating on innovative, impactful projects.
+
+📫 **Let's Connect**: Feel free to explore my projects here on GitHub or reach out via [LinkedIn](https://www.linkedin.com/in/saumyabhutani/).
+
+✨ Let's build something amazing together! ✨
