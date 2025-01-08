@@ -1,16 +1,18 @@
 ### Hi there 👋, I'm Saumya Bhutani
 
-🎓 **Education**: Master of Data Science and Innovation, University of Technology Sydney (UTS).
+🎓 **Education**: 
+Master of Data Science and Innovation, University of Technology Sydney (UTS).
 
 💻 **Technical Expertise**: 
 - Proficient in **SQL**, **Python**, and **Power BI**.
-- Skilled in advanced tools and platforms such as **Apache Airflow**, **PostgreSQL**, **Snowflake**, and **cloud services** (AWS, Azure, GCP).
-- Experience in **machine learning**, **data visualization**, and **ETL pipeline development**.
+- Hands-on experience with advanced tools and platforms such as **Apache Airflow**, **PostgreSQL**, **Snowflake**, and **cloud services** (AWS, Azure, GCP).
+- Skilled in **machine learning**, **data visualization**, and **ETL pipeline development** to enable robust data management and analytics.
 
 🚀 **Passion & Goals**: 
-- Leveraging data to drive strategic decision-making and enable digital transformation.
-- Exploring cutting-edge technologies and collaborating on innovative, impactful projects.
+- Enthusiastic about leveraging data-driven solutions to drive business impact and digital transformation.
+- Committed to staying at the forefront of technology and collaborating on innovative, high-impact projects.
 
-📫 **Let's Connect**: Feel free to explore my projects here on GitHub or reach out via [LinkedIn](https://www.linkedin.com/in/saumyabhutani/).
+📫 **Let's Connect**: Explore my projects here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/saumyabhutani/).
 
-✨ Let's build something amazing together! ✨
+
+ ✨ **Let's create something extraordinary together!** ✨
